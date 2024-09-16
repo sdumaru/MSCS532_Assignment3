@@ -65,7 +65,7 @@ sorted_array = [1, 15, 23, 28, 36, 47, 65, 76, 83, 98]
 reversed_sorted_array = [98, 83, 76, 65, 47, 36, 28, 23, 15, 1]
 repeated_elements_array = [23, 56, 23, 84, 56, 23, 56, 84, 23, 84]
 
-# PRINT SORTED ARRAYS 
+# PRINT SORTED ARRAYS
 # print(randomized_quicksort(empty_array, 0, len(empty_array) - 1))
 # print(randomized_quicksort(randomized_array, 0, len(randomized_array) - 1))
 # print(randomized_quicksort(sorted_array, 0, len(sorted_array) - 1))
